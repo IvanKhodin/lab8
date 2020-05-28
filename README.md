@@ -4,14 +4,14 @@
 
 ## Пример 1:
 
-$$
-\begin{cases}
+
+$$\begin{cases}$$
 \frac{\partial u}{\partial t}= a\frac{\partial ^2 u}{\partial x^2}, a>0
 \\u(0,t)=0
 \\u(1,t)=0
 \\u(x,0)=sin(2\pi x)
 \end{cases}
-$$
+
 Аналитическое решение: $$ u(x,t)=e^{-4\pi ^{2}at}sin(2\pi x) $$
 
 ## Теория: 
